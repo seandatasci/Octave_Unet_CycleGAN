@@ -1,6 +1,7 @@
 ### Keras/Tensorflow 2.0 implementation of an Octave Convolution Unet with Cycle GAN for image segmentation and transposed octave convolutions
 
 Inspired by:
+
     @misc{yan2019domain,
     title={The Domain Shift Problem of Medical Image Segmentation and Vendor-Adaptation by Unet-GAN},
     author={Wenjun Yan and Yuanyuan Wang and Shengjia Gu and Lu Huang and Fuhua Yan and Liming Xia and Qian Tao},
@@ -20,6 +21,7 @@ With a few fixes from their paper to achieve better performance:
 Google Colab example: https://colab.research.google.com/drive/12vwD172FKC5XTGeVN7cJaUm_pm_0AgA1
 
 Octave Unet:
+
     @misc{fan2019accurate,
     title={Accurate Retinal Vessel Segmentation via Octave Convolution Neural Network},
     author={Zhun Fan and Jiajie Mo and Benzhang Qiu and Wenji Li and Guijie Zhu and Chong Li and Jianye Hu and Yibiao Rong and          Xinjian Chen},
